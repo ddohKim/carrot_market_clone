@@ -1,0 +1,1 @@
+const VWORLD_KEY='8EAFA524-3925-3CDB-8CB0-0E4A36CD6DD5'; //vworld api 사용하는 key
